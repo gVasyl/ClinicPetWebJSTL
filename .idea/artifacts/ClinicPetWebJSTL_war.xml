@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ClinicPetWebJSTL:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ClinicPetWeb(JSTL).war">
+      <element id="artifact" artifact-name="ClinicPetWebJSTL:war exploded" />
+    </root>
+  </artifact>
+</component>
